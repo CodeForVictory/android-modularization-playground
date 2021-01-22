@@ -1,0 +1,8 @@
+rootProject.name = "Android Playground Modularization"
+
+include ":app:android"
+
+apply from: "${rootDir}/app-feature/a/settings.gradle"
+apply from: "${rootDir}/app-feature/b/settings.gradle"
+apply from: "${rootDir}/app-feature/c/settings.gradle"
+

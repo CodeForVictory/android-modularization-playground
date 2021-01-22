@@ -1,0 +1,4 @@
+include "app-feature:c:ui"
+include "app-feature:c:domain"
+include "app-feature:c:data"
+include "app-feature:c:ui-integration"

@@ -1,0 +1,2 @@
+- Implementations of core platform stuff? (time, etc.)
+- Tooling and libraries implementations?
