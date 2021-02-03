@@ -6,3 +6,15 @@ apply from: "${rootDir}/app-feature/a/settings.gradle"
 apply from: "${rootDir}/app-feature/b/settings.gradle"
 apply from: "${rootDir}/app-feature/c/settings.gradle"
 
+
+//include ":app-ui-platform:navigation"
+
+
+//include ":app-ui-common:campaign"
+//include ":app-ui-common:user"
+//include ":app-ui-common:purchase"
+//include ":app-ui-common:recommendation"
+//include ":app-ui-common:match"
+//include ":app-ui-common:ad"
+//include ":app-ui-common:profile"
+//include ':ui-core'

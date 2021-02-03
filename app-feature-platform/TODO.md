@@ -1,1 +1,0 @@
-- Core (Activity, Activity ext, Fragment, Fragment ext, and other core deps)
