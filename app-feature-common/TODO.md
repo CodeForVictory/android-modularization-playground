@@ -1,2 +1,0 @@
-- Common feature functionality that can't be an entry point:
-    - Campaigns
